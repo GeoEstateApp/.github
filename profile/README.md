@@ -49,15 +49,15 @@ Looking ahead, we plan to incorporate deeper AI-driven insights and expand neigh
 
 ### Meet the Visionaries Behind GeoEstate
 
-- **[Ayesha Virk]([here](https://github.com/ayesha-asad07))**: Founder, Full Stack Developer
-- **[Robert Bui]([here](https://github.com/Robbierayrob))**: Product Lead, Backend Lead
-- **[Vikramaditya Dhumal]([here](https://github.com/vikramadityaiwnl))**: Frontend Lead, Full Stack Developer
-- **[Humera]([here](https://github.com/H-raheel))**: Backend Developer, DB Developer
-- **[Yaseen]([here](https://github.com/yaseen2402))**: DB, Backend Developer
-- **[Aditya Sengupta]([here](https://github.com/aseng21))**: Frontend Lead, Full Stack Developer
-- **[Dip]([here](https://github.com/sdiptac))**: Backend, Full Stack Developer
-- **[Zainab Rashid]([here](https://github.com/redfyel))**: Frontend Developer, UI/UX Lead
-- **[Shelian Gladis]([here](https://github.com/redfyel))**: Frontend Developer, Designer
+- **[Ayesha Virk]((https://github.com/ayesha-asad07))**: Founder, Full Stack Developer
+- **[Robert Bui]((https://github.com/Robbierayrob))**: Product Lead, Backend Lead
+- **[Vikramaditya Dhumal]((https://github.com/vikramadityaiwnl))**: Frontend Lead, Full Stack Developer
+- **[Humera]((https://github.com/H-raheel))**: Backend Developer, DB Developer
+- **[Yaseen]((https://github.com/yaseen2402))**: DB, Backend Developer
+- **[Aditya Sengupta]((https://github.com/aseng21))**: Frontend Lead, Full Stack Developer
+- **[Dip]((https://github.com/sdiptac))**: Backend, Full Stack Developer
+- **[Zainab Rashid]((https://github.com/redfyel))**: Frontend Developer, UI/UX Lead
+- **[Shelian Gladis]((https://github.com/redfyel))**: Frontend Developer, Designer
 
 <!--
 
