@@ -2,6 +2,8 @@
 
 - GeoEstate revolutionizes real estate exploration by blending photorealistic 3D maps with AI-driven insights to create an interactive and immersive experience. Explore neighborhoods virtually, with features like nearby schools, parks, and properties with comprehensive and insightful neighborhood evaluations. 
 - GeoEstate’s AI-powered Suitability Calculator personalizes recommendations based on your lifestyle, evaluating energy efficiency, environmental impact, and accessibility. With Immersive AI, finding your perfect home becomes an engaging and seamless journey.
+  
+www.geo.estate
 
 ### Features We Provide
 
